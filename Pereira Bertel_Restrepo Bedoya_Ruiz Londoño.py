@@ -1,8 +1,4 @@
-"""                           TALLER # 1:
------------------------------INTEGRANTES-----------------------------------
-CC.1000758420------- Christian Camilo Pereira Bertel
-CC.1000872160------ Kevin Alejandro Restrepo Bedoya
-CC.1017274121------ Emmanuel Ruiz Londoño
+"""   
 """
 
 import math
